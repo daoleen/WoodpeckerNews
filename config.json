@@ -17,5 +17,8 @@
     ],
     "polls": [
     ]
-  }
+  },
+
+  "newsFolderUrl": "https://daoleen.github.io/WoodpeckerNews/news/",
+  "pollsFolderUrl": "https://daoleen.github.io/WoodpeckerNews/polls/"
 }
