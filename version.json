@@ -1,0 +1,21 @@
+{
+  "latest": {
+    "news": {
+      "version": "418ad1e9-16b8-4a05-8b6f-40f7a019b186",
+      "active": true,
+      "languages": ["en", "ru"]
+    },
+    "poll": null
+  },
+  "history": {
+    "news": [
+      {
+        "version": "085a84af-5ebd-403c-a3c7-ef88d2ae49eb",
+        "active": false,
+        "languages": ["en", "ru"]
+      }
+    ],
+    "polls": [
+    ]
+  }
+}
