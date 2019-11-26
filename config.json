@@ -1,23 +1,21 @@
 {
-  "latest": {
-    "news": {
+  "news": [
+    {
       "version": "418ad1e9-16b8-4a05-8b6f-40f7a019b186",
       "active": true,
-      "languages": ["en", "ru"]
-    },
-    "poll": null
-  },
-  "history": {
-    "news": [
-      {
-        "version": "085a84af-5ebd-403c-a3c7-ef88d2ae49eb",
-        "active": false,
-        "languages": ["en", "ru"]
-      }
-    ],
-    "polls": [
-    ]
-  },
+      "languages": ["en", "ru"],
+      "date": "26.10.2019 20:37",
+      "maxShowTimes": 3,
+      "minPeriodBeforeShows": 3,
+      "minPeriodBeforeShowsUnit": "DAYS",
+      "minPeriodBeforeLastNewsShows": 1,
+      "minPeriodBeforeLastNewsShowsUnit": "DAYS",
+      "priority": "MEDIUM"
+    }
+  ],
+
+  "polls": [
+  ],
 
   "newsFolderUrl": "https://daoleen.github.io/WoodpeckerNews/news/",
   "pollsFolderUrl": "https://daoleen.github.io/WoodpeckerNews/polls/"
