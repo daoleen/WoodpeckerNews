@@ -27,8 +27,31 @@
   ],
 
   "polls": [
+    {
+      "version": "0b834656-f886-4ce9-b54a-9029e677b8f7",
+      "active": true,
+      "date": "2019-10-26T17:37",
+      "minPeriodBeforeLastPollShows": 3,
+      "minPeriodBeforeLastPollShowsUnit": "DAYS",
+      "priority": "MEDIUM",
+      "urls": {
+        "en": "http://www.easypolls.net/poll.html?p=5ddecaebe4b068952e5128dc",
+        "ru": "http://www.easypolls.net/poll.html?p=5dde95d5e4b068952e512847"
+      }
+    },
+    {
+      "version": "b699e14f-c945-452a-bd77-ca98909966df",
+      "active": true,
+      "date": "2019-10-27T17:37",
+      "minPeriodBeforeLastPollShows": 3,
+      "minPeriodBeforeLastPollShowsUnit": "DAYS",
+      "priority": "MEDIUM",
+      "urls": {
+        "en": "http://www.easypolls.net/poll.html?p=5ddecb82e4b068952e5128dd",
+        "ru": "http://www.easypolls.net/poll.html?p=5ddecbaee4b068952e5128de"
+      }
+    }
   ],
 
-  "newsFolderUrl": "https://daoleen.github.io/WoodpeckerNews/news/",
-  "pollsFolderUrl": "https://daoleen.github.io/WoodpeckerNews/polls/"
+  "newsFolderUrl": "https://daoleen.github.io/WoodpeckerNews/news/"
 }
