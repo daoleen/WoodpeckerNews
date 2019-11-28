@@ -59,8 +59,16 @@
       "minor": 1,
       "description": "First version for testing",
       "downloadLink": "https://daoleen.github.io/WoodpeckerNews/releases/win/Woodpecker-0.1.msi",
-      "releaseDate": "2019-11-28",
+      "releaseDate": "2019-11-27",
       "previousVersionsDeadline": null
+    },
+    {
+      "major": 0,
+      "minor": 2,
+      "description": "Second version for testing",
+      "downloadLink": "https://daoleen.github.io/WoodpeckerNews/releases/win/Woodpecker-0.1.msi",
+      "releaseDate": "2019-11-28",
+      "previousVersionsDeadline": "2019-12-01"
     }
   ],
 
