@@ -53,5 +53,16 @@
     }
   ],
 
+  "versions": [
+    {
+      "major": 0,
+      "minor": 1,
+      "description": "First version for testing",
+      "downloadLink": "https://daoleen.github.io/WoodpeckerNews/releases/win/Woodpecker-0.1.msi",
+      "releaseDate": "2019-11-28",
+      "previousVersionsDeadline": null
+    }
+  ],
+
   "newsFolderUrl": "https://daoleen.github.io/WoodpeckerNews/news/"
 }
