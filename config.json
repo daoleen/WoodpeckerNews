@@ -73,5 +73,5 @@
   ],
 
   "newsFolderUrl": "https://daoleen.github.io/WoodpeckerNews/news/",
-  "utilServerUrl": "http://10.10.2.1:6753"
+  "utilServerUrl": "http://localhost:9764"
 }
