@@ -1,0 +1,78 @@
+{
+  "news": [
+    {
+      "version": "418ad1e9-16b8-4a05-8b6f-40f7a019b186",
+      "active": true,
+      "languages": ["en", "ru"],
+      "date": "2019-10-26T20:37",
+      "maxShowTimes": 3,
+      "minPeriodBeforeShows": 3,
+      "minPeriodBeforeShowsUnit": "DAYS",
+      "minPeriodBeforeLastNewsShows": 1,
+      "minPeriodBeforeLastNewsShowsUnit": "DAYS",
+      "priority": "MEDIUM"
+    },
+    {
+      "version": "2b693258-dcb9-4bbc-8efd-bb0cb84f612a",
+      "active": true,
+      "languages": ["en", "ru"],
+      "date": "2019-10-27T17:37",
+      "maxShowTimes": 3,
+      "minPeriodBeforeShows": 5,
+      "minPeriodBeforeShowsUnit": "DAYS",
+      "minPeriodBeforeLastNewsShows": 1,
+      "minPeriodBeforeLastNewsShowsUnit": "DAYS",
+      "priority": "MEDIUM"
+    }
+  ],
+
+  "polls": [
+    {
+      "version": "0b834656-f886-4ce9-b54a-9029e677b8f7",
+      "active": true,
+      "date": "2019-10-26T17:37",
+      "minPeriodBeforeLastPollShows": 3,
+      "minPeriodBeforeLastPollShowsUnit": "DAYS",
+      "priority": "MEDIUM",
+      "urls": {
+        "en": "http://www.easypolls.net/poll.html?p=5ddecaebe4b068952e5128dc",
+        "ru": "http://www.easypolls.net/poll.html?p=5dde95d5e4b068952e512847"
+      }
+    },
+    {
+      "version": "b699e14f-c945-452a-bd77-ca98909966df",
+      "active": true,
+      "date": "2019-10-27T17:37",
+      "minPeriodBeforeLastPollShows": 3,
+      "minPeriodBeforeLastPollShowsUnit": "DAYS",
+      "priority": "MEDIUM",
+      "urls": {
+        "en": "http://www.easypolls.net/poll.html?p=5ddecb82e4b068952e5128dd",
+        "ru": "http://www.easypolls.net/poll.html?p=5ddecbaee4b068952e5128de"
+      }
+    }
+  ],
+
+  "versions": [
+    {
+      "major": 0,
+      "minor": 1,
+      "description": "First version for testing",
+      "downloadLink": "https://daoleen.github.io/WoodpeckerNews/releases/win/Woodpecker-0.1.msi",
+      "releaseDate": "2019-11-27",
+      "previousVersionsDeadline": null
+    },
+    {
+      "major": 0,
+      "minor": 2,
+      "description": "Second version for testing",
+      "downloadLink": "https://daoleen.github.io/WoodpeckerNews/releases/win/Woodpecker-0.1.msi",
+      "releaseDate": "2019-11-28",
+      "previousVersionsDeadline": "2020-12-01"
+    }
+  ],
+
+  "newsFolderUrl": "https://daoleen.github.io/WoodpeckerNews/news/",
+  "utilServerUrl": "http://localhost:9764",
+  "acceptingErrorReports": true
+}
