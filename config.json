@@ -7,11 +7,11 @@
 
   "versions": [
     {
-      "major": 1,
-      "minor": 2,
-      "description": "Simple Tester 1.2.0-RELEASE",
+      "major": 0,
+      "minor": 8,
+      "description": "Simple Tester 0.8.0-RELEASE",
       "downloadLink": "https://www.dropbox.com/s/ogbnl39e0rgh4ka/SimpleTester-1.2.0-RELEASE.exe?dl=0",
-      "releaseDate": "2019-12-03",
+      "releaseDate": "2020-11-13",
       "previousVersionsDeadline": null
     }
   ],
